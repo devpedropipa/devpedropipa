@@ -1,6 +1,6 @@
 ## Olá! Eu sou Pedro Henrique 👋🏻
 
-Acesse meu portfólio para saber mais sobre mim, meus projetos e como trabalho.
+Acesse meu portfólio para saber mais sobre mim, meus projetos, como trabalho, e visualizar meu currículo.
 
 [🔗Clique aqui!]()
 
