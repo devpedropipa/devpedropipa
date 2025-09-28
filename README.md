@@ -25,4 +25,4 @@ Acesse o meu [🔗portfólio]() para visualizar os meus projetos.
   <a href="https://dev.to/envoy_/150-badges-for-github-pnk#social"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-![Snake animation](![Snake animation](https://github.com/devpedropipa/devpedropipa/blob/output/snake.svg))
+![Snake animation](https://github.com/devpedropipa/devpedropipa/blob/output/snake.svg)
