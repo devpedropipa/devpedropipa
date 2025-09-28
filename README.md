@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedropipa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170em" alt="languages graph"  />
 </div>
 
-### Tecnologias e ferramentas 👨🏻‍💻🧰
+### Tecnologias e ferramentas que utilizo 👨🏻‍💻🧰
 <div>
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
