@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpedropipa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180em" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedropipa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180em" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devpedropipa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedropipa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150em" alt="languages graph"  />
 </div>
 
 ### Tecnologias e ferramentas 👨🏻‍💻🧰
@@ -24,5 +24,3 @@ Acesse o meu [🔗portfólio]() para visualizar os meus projetos.
   <a href="https://dev.to/envoy_/150-badges-for-github-pnk#social"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://dev.to/envoy_/150-badges-for-github-pnk#social"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-![Snake animation](https://github.com/devpedropipa/devpedropipa/blob/output/snake.svg)
