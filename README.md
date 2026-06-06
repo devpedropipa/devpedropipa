@@ -1,41 +1,60 @@
-<section align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpedropipa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170em" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedropipa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170em" alt="languages graph"  />
-</section>
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<section align="center">
-  
-  ### Tecnologias e ferramentas que utilizo 👨🏻‍💻🧰
-  
-  <div>
-    <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  </div>
-  <br>
-  
-  Acesse o meu [🔗portfólio](https://pedrodev-portfolio.netlify.app/) para visualizar os meus projetos.
-</section>
+<h3 align="center">Olá! 👋 Eu sou Pedro Henrique</h3>
 
-<section align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpedropipa/devpedropipa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpedropipa/devpedropipa/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devpedropipa/devpedropipa/output/github-contribution-grid-snake.svg">
-  </picture>
-</section>
+<p align="center">
+  Desenvolvedor Front-end Júnior que resolve problemas reais 
+  criando aplicações web modernas e responsivas focados em experiência 
+  do usuário. Busco constantemente em aprimorar minhas habilidades
+  por meio de projetos e plataformas de aprendizado.
+</p>
 
-##
+<div align="center">
+  <a href="https://pedrodev-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀%20Confira%20meu%20Portfólio-1D1D1F?style=for-the-badge">
+  </a>
+</div>
 
-<section align="center">
-  
-  ### Contato 🤳🏻
-  
-  <div>
-    <a href="https://www.linkedin.com/in/pedrodevfrontend/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://dev.to/envoy_/150-badges-for-github-pnk#social"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </div>
-</section>
+---
+
+<h3 align="center">🤖 Linguagens & Tecnologias</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+</div>
+
+<h3 align="center">🪛 Ferramentas</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Status</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devpedropipa/devpedropipa/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/devpedropipa/devpedropipa/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1D1D1F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
