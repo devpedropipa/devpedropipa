@@ -11,6 +11,8 @@
   por meio de projetos e plataformas de aprendizado.
 </p>
 
+<br>
+
 <div align="center">
   <a href="https://pedrodev-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/🚀%20Confira%20meu%20Portfólio-1D1D1F?style=for-the-badge">
