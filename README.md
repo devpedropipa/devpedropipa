@@ -59,6 +59,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedrodevfrontend/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF9oCCFylSHSluxnap%2FE1zg%3D%3D">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1D1D1F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
