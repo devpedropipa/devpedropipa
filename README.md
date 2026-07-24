@@ -50,8 +50,9 @@
 <h3 align="center">📊 GitHub Status</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devpedropipa/devpedropipa/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/devpedropipa/devpedropipa/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=devpedropipa&theme=dark" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=devpedropipa&theme=dark&layout=compact" />
 </div>
 
 <br>
